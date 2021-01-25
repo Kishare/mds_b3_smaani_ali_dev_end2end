@@ -14,4 +14,4 @@ Tests E2E with Uber
 
 ## Browserstack build status
 
-[![BrowserStack Status](https://automate.browserstack.com/badge.svg?badge_key=<badge_key>)](https://automate.browserstack.com/public-build/M3hZRDRUNzQrSGQ1YnBpZERPTmxuL2RBUktzdUNtdVBXWUZXdVdMOWpCUT0tLUhrdW0xVnFXYUxkTUdBZEo0YUdpaUE9PQ==--b4a353272c226d8ff40cb68e6c1ecbed00e6c164%)
+[![BrowserStack Status](https://automate.browserstack.com/badge.svg?badge_key=M3hZRDRUNzQrSGQ1YnBpZERPTmxuL2RBUktzdUNtdVBXWUZXdVdMOWpCUT0tLUhrdW0xVnFXYUxkTUdBZEo0YUdpaUE9PQ==--b4a353272c226d8ff40cb68e6c1ecbed00e6c164%)](https://automate.browserstack.com/public-build/M3hZRDRUNzQrSGQ1YnBpZERPTmxuL2RBUktzdUNtdVBXWUZXdVdMOWpCUT0tLUhrdW0xVnFXYUxkTUdBZEo0YUdpaUE9PQ==--b4a353272c226d8ff40cb68e6c1ecbed00e6c164%)
