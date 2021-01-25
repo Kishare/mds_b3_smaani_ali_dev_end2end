@@ -1,5 +1,13 @@
-Pour lancer les tests :
+# Test E2E (end-to-end)
 
-Revoir le fichier package.json :
+Tests E2E with Uber
 
-> ./node_modules/.bin/nightwatch ./tests/uber.js
+## Installation
+
+- git clone
+- npm i
+- replace with your browserstack user and key credentials in nightwatch.conf.js file
+
+## Run
+
+- npm test

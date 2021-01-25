@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="10">
+
+  <testsuite name="uber"
+    errors="0" failures="0" hostname="" id="" package="uber" skipped="0"
+    tests="10" time="234.2" timestamp="">
+  
+    <testcase name="Open Uber Website" classname="uber" time="8.785" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Check block login in the header wrapper" classname="uber" time="14.87" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Check login block in two sections" classname="uber" time="15.36" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Check login chauffeur section" classname="uber" time="23.44" assertions="5">
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Check login passager section" classname="uber" time="23.68" assertions="7">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Check Registration block in two sections" classname="uber" time="18.96" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Check Registration block with Devenir Professional section" classname="uber" time="50.02" assertions="9">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Check Registration block with Commander une course section" classname="uber" time="25.01" assertions="8">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Registration with Commander une course section shouldnt pass" classname="uber" time="20.80" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Registration should pass" classname="uber" time="33.27" assertions="8">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>

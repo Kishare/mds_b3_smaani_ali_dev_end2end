@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="1">
+
+  <testsuite name="uber"
+    errors="0" failures="1" hostname="" id="" package="uber" skipped="0"
+    tests="1" time="30.32" timestamp="">
+  
+    <testcase name="Registration should pass" classname="uber" time="30.32" assertions="1">  <failure message="Timed out while waiting for element &lt;//*[@id=&#34;main&#34;]/nav/div/ul[3]/li[2]/button&gt; to be present for 5000 milliseconds. - expected &#34;found&#34; but got: &#34;not found&#34; (5347ms)">    at DescribeInstance.&lt;anonymous&gt; (/home/citrus/Documents/MDS/WORKSPACES/QLT/mds_b3_smaani_ali_dev_end2end/tests/uber.js:119:10)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)</failure>
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>
